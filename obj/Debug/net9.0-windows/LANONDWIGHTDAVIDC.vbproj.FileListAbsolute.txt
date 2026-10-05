@@ -49,3 +49,4 @@ C:\Users\lanon\source\repos\LANONDWIGHTDAVIDC\LANONDWIGHTDAVIDC\obj\Debug\net9.0
 C:\Users\lanon\source\repos\LANONDWIGHTDAVIDC\LANONDWIGHTDAVIDC\obj\Debug\net9.0-windows\LANONDWIGHTDAVIDC.game2.resources
 C:\Users\lanon\source\repos\LANONDWIGHTDAVIDC\LANONDWIGHTDAVIDC\obj\Debug\net9.0-windows\LANONDWIGHTDAVIDC.game3.resources
 C:\Users\lanon\source\repos\LANONDWIGHTDAVIDC\LANONDWIGHTDAVIDC\obj\Debug\net9.0-windows\LANONDWIGHTDAVIDC.Week8.resources
+C:\Users\lanon\source\repos\LANONDWIGHTDAVIDC\LANONDWIGHTDAVIDC\obj\Debug\net9.0-windows\LANONDWIGHTDAVIDC.sourcelink.json

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("LANONDWIGHTDAVIDC"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab2500bbd94f09134266ee93d198d4790bc46652"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("LANONDWIGHTDAVIDC"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("LANONDWIGHTDAVIDC"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
