@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Arithmetic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClassandObjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DigitalClock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Encapsulation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="game2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="game3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inheritance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Polymorphism.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Truthtable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week3pt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week4pt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week4pt3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week4pt4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week5pt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week5pt3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week5pt4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week6pt9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week7pt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week7pt3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week7pt4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
